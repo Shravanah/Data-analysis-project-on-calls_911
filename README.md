@@ -1,2 +1,5 @@
 # calls_911
 Welcome to the repository for my Data Analysis and Visualization project centered around 911 emergency calls. This project aims to explore and analyze a dataset containing information about the reasons for the calls, number of calls per day and many more.
+In this project I have used pandas for data handling, data cleaning, data manipulation and finally for exploratory data analysis. 
+Further I have imported seaborn and pyplot from matplotlib for better data visualization and have plotted clustermap and heatmap to provide a visual representation of the clustering results, which can be valuable for data interpretation and decision-making, countplot to represent the frequency of each reason to call and also to show the distribution of the calls each day of the week. Then I determined the linearity of the graph between each month and township and many other plots for better understanding of the given data. 
+In conclusion, from this project we can learn how to deal with differnt datasets. 
